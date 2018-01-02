@@ -18,3 +18,6 @@ upload-normal.go
 upload-surf.go
 
 
+
+上传成功会自动生成
+testpath 
